@@ -1,3 +1,3 @@
-Write ("Ini adalah berkas-berkas berisi tutorial")
-Write ("Readers boleh mendownloadnya")
-Write ("Thx :D")
+Writeln ("Ini adalah berkas-berkas berisi tutorial")
+Writeln ("Readers boleh mendownloadnya")
+Writeln ("Thx :D")
